@@ -8,7 +8,7 @@ O script foi feito para recuperar até 2 sistemas ao mesmo tempo, 1 Linux e 1 Wi
 
 INSTALAÇÃO:
 
-Dentro da pasta do RISO digite 'sudo make'
+Dentro da pasta do RISO digite 'sudo ./install'
 
 EXECUÇÃO:
 
